@@ -1,4 +1,3 @@
-
 package Activities;
 
 import org.openqa.selenium.By;
